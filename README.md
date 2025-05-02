@@ -5,5 +5,7 @@
 
 ---
 
-A little stop watch project for learning C#.
-.NET Framework 4.7.2 
+- A a very basic project for learning C#.
+- Provides a stopwatch, clock and alarm
+- Digit color can be changed
+- Using .NET Framework 4.7.2 
