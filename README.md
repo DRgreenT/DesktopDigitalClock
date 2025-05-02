@@ -1,8 +1,9 @@
 # DesktopDigitalClock
 
 ---
-<img src = "./docs/pic1.png">
-
+<p align="center">
+  <img src = "./docs/pic1.png">
+</p>
 ---
 
 - A a very basic project for learning C#.
